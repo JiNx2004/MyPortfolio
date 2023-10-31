@@ -267,3 +267,11 @@ img {
     display: block;
   }
 }
+
+
+@media (max-width: 1024px) {
+  .num {
+    padding-top: 2rem;
+    display: block;
+  }
+}
